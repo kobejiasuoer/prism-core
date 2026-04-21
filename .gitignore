@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+dist/
+build/
+.DS_Store
+reports/generated/
