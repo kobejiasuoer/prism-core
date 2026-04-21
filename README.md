@@ -2,6 +2,8 @@
 
 Prism Core is an AI-native investment research workflow framework.
 
+Chinese version: [README.zh-CN.md](README.zh-CN.md)
+
 It turns the Prism workflow into a public-safe demo repository that people can read, run, and extend without exposing the private production edge.
 
 ## Why This Exists
@@ -125,6 +127,7 @@ Important entry points:
 - [PUBLIC_VS_PRIVATE.md](PUBLIC_VS_PRIVATE.md)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
 - [SECURITY.md](SECURITY.md)
+- [README.zh-CN.md](README.zh-CN.md)
 
 ## Contributing
 
