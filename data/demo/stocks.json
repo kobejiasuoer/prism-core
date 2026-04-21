@@ -1,0 +1,29 @@
+[
+  {
+    "symbol": "DEMO001",
+    "name": "Atlas Compute",
+    "sector": "AI Infrastructure",
+    "price_change_pct": 4.8,
+    "volume_change_pct": 21.0,
+    "drawdown_pct": -3.2,
+    "quality_note": "steady growth"
+  },
+  {
+    "symbol": "DEMO002",
+    "name": "Harbor Motors",
+    "sector": "EV Components",
+    "price_change_pct": -2.4,
+    "volume_change_pct": -10.0,
+    "drawdown_pct": -8.5,
+    "quality_note": "rebound candidate"
+  },
+  {
+    "symbol": "DEMO003",
+    "name": "River Health",
+    "sector": "Medical Devices",
+    "price_change_pct": 1.2,
+    "volume_change_pct": 8.0,
+    "drawdown_pct": -1.5,
+    "quality_note": "balanced profile"
+  }
+]
