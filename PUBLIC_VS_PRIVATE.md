@@ -17,3 +17,11 @@
 ## Promotion rule
 
 If a private change becomes generally useful, rewrite it as a public-safe abstraction with docs, demo data, and tests before moving it into `prism-core`.
+
+## Promotion Workflow
+
+1. Build and validate a change in the private repo if it depends on private edge.
+2. Strip out private thresholds, prompts, data, and operating artifacts.
+3. Re-express the idea as a public abstraction, demo strategy, or doc improvement.
+4. Add demo data and tests.
+5. Land the public-safe version in `prism-core`.

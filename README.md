@@ -26,3 +26,5 @@ Private alpha details, real thresholds, real watchlists, production prompts, and
 python -m scripts.run_demo
 pytest -q
 ```
+
+The generated sample report will be written to `reports/examples/demo-report.md`.

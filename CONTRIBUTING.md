@@ -9,3 +9,13 @@ Before opening a pull request:
 1. Run `pytest -q`
 2. Confirm no sensitive data is introduced
 3. Update docs for user-visible behavior changes
+
+## Sensitive Data Check
+
+Before committing, confirm that your change does not add:
+
+- real watchlists
+- real snapshots or fund-flow caches
+- logs from private cron runs
+- credentials, cookies, proxy config, or browser profile references
+- private prompts or production shortlist logic
